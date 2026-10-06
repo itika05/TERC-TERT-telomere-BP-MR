@@ -1,0 +1,43 @@
+/home/claude/hTERT/step3_mr_reverse.py:18: RuntimeWarning: divide by zero encountered in divide
+  se=lambda b,p: np.abs(b)/norm.isf(np.clip(p,1e-300,1)/2)
+/home/claude/hTERT/step3_mr_reverse.py:18: RuntimeWarning: divide by zero encountered in divide
+  se=lambda b,p: np.abs(b)/norm.isf(np.clip(p,1e-300,1)/2)
+       exposure  candidates  after_1Mb  after_LD
+0           SBP         888        376       375
+1           DBP         704        324       323
+2  Hypertension         463        211       210
+        exposure                       outcome                         method  nsnp       b      se       p     Q_p       I2  intercept  intercept_p  global_p  n_outliers    meanF  steiger_prop_correct
+0            SBP          LTL (Codd 2021, UKB)                      IVW (MRE)   372  0.0247  0.0133  0.0641  0.0000  86.4070        NaN          NaN       NaN         NaN  68.3305                0.9866
+1            SBP          LTL (Codd 2021, UKB)                       MR-Egger   372  0.0463  0.0386  0.2313     NaN      NaN    -0.0006       0.5519       NaN         NaN  68.3305                0.9866
+2            SBP          LTL (Codd 2021, UKB)                Weighted median   372 -0.0023  0.0080  0.7772     NaN      NaN        NaN          NaN       NaN         NaN  68.3305                0.9866
+3            SBP          LTL (Codd 2021, UKB)                  Weighted mode   372 -0.0346  0.0236  0.1419     NaN      NaN        NaN          NaN       NaN         NaN  68.3305                0.9866
+4            SBP          LTL (Codd 2021, UKB)  MR-PRESSO (outlier-corrected)   359  0.0034  0.0066  0.6067     NaN      NaN        NaN          NaN    0.0001        13.0  68.3305                0.9866
+5            SBP          LTL (Codd 2021, UKB)          IVW, Steiger-filtered   367  0.0036  0.0073  0.6252  0.0000  54.0596        NaN          NaN       NaN         NaN  68.3305                0.9866
+6            SBP  LTL South Asian (Nakao 2026)                      IVW (MRE)   318  0.0274  0.0371  0.4605  0.0029  18.9101        NaN          NaN       NaN         NaN  69.7027                0.7516
+7            SBP  LTL South Asian (Nakao 2026)                       MR-Egger   318  0.0075  0.1028  0.9415     NaN      NaN     0.0005       0.8357       NaN         NaN  69.7027                0.7516
+8            SBP  LTL South Asian (Nakao 2026)                Weighted median   318 -0.0091  0.0559  0.8712     NaN      NaN        NaN          NaN       NaN         NaN  69.7027                0.7516
+9            SBP  LTL South Asian (Nakao 2026)                  Weighted mode   318 -0.0000  0.0958  0.9996     NaN      NaN        NaN          NaN       NaN         NaN  69.7027                0.7516
+10           SBP  LTL South Asian (Nakao 2026)  MR-PRESSO (outlier-corrected)   317  0.0110  0.0354  0.7552     NaN      NaN        NaN          NaN    0.0025         1.0  69.7027                0.7516
+11           SBP  LTL South Asian (Nakao 2026)          IVW, Steiger-filtered   239  0.0086  0.0370  0.8155  1.0000   0.0000        NaN          NaN       NaN         NaN  69.7027                0.7516
+12           DBP          LTL (Codd 2021, UKB)                      IVW (MRE)   321  0.0094  0.0108  0.3858  0.0000  75.0967        NaN          NaN       NaN         NaN  69.2162                0.9875
+13           DBP          LTL (Codd 2021, UKB)                       MR-Egger   321  0.0040  0.0333  0.9040     NaN      NaN     0.0001       0.8643       NaN         NaN  69.2162                0.9875
+14           DBP          LTL (Codd 2021, UKB)                Weighted median   321 -0.0072  0.0088  0.4130     NaN      NaN        NaN          NaN       NaN         NaN  69.2162                0.9875
+15           DBP          LTL (Codd 2021, UKB)                  Weighted mode   321 -0.0178  0.0199  0.3698     NaN      NaN        NaN          NaN       NaN         NaN  69.2162                0.9875
+16           DBP          LTL (Codd 2021, UKB)  MR-PRESSO (outlier-corrected)   305  0.0017  0.0073  0.8113     NaN      NaN        NaN          NaN    0.0001        16.0  69.2162                0.9875
+17           DBP          LTL (Codd 2021, UKB)          IVW, Steiger-filtered   317  0.0020  0.0092  0.8320  0.0000  65.2958        NaN          NaN       NaN         NaN  69.2162                0.9875
+18           DBP  LTL South Asian (Nakao 2026)                      IVW (MRE)   260  0.1026  0.0392  0.0094  0.7307   0.0000        NaN          NaN       NaN         NaN  70.3750                0.8000
+19           DBP  LTL South Asian (Nakao 2026)                       MR-Egger   260  0.0484  0.1214  0.6906     NaN      NaN     0.0014       0.6376       NaN         NaN  70.3750                0.8000
+20           DBP  LTL South Asian (Nakao 2026)                Weighted median   260  0.1325  0.0581  0.0226     NaN      NaN        NaN          NaN       NaN         NaN  70.3750                0.8000
+21           DBP  LTL South Asian (Nakao 2026)                  Weighted mode   260  0.2006  0.1360  0.1404     NaN      NaN        NaN          NaN       NaN         NaN  70.3750                0.8000
+22           DBP  LTL South Asian (Nakao 2026)  MR-PRESSO (outlier-corrected)   260  0.1026  0.0381  0.0076     NaN      NaN        NaN          NaN    0.7362         0.0  70.3750                0.8000
+23           DBP  LTL South Asian (Nakao 2026)          IVW, Steiger-filtered   208  0.0315  0.0427  0.4615  1.0000   0.0000        NaN          NaN       NaN         NaN  70.3750                0.8000
+24  Hypertension          LTL (Codd 2021, UKB)                      IVW (MRE)   209 -0.0111  0.0072  0.1260  0.0000  71.8187        NaN          NaN       NaN         NaN  52.4290                   NaN
+25  Hypertension          LTL (Codd 2021, UKB)                       MR-Egger   209  0.0082  0.0247  0.7403     NaN      NaN    -0.0008       0.4143       NaN         NaN  52.4290                   NaN
+26  Hypertension          LTL (Codd 2021, UKB)                Weighted median   209 -0.0102  0.0062  0.1002     NaN      NaN        NaN          NaN       NaN         NaN  52.4290                   NaN
+27  Hypertension          LTL (Codd 2021, UKB)                  Weighted mode   209 -0.0238  0.0139  0.0863     NaN      NaN        NaN          NaN       NaN         NaN  52.4290                   NaN
+28  Hypertension          LTL (Codd 2021, UKB)  MR-PRESSO (outlier-corrected)   195 -0.0118  0.0052  0.0230     NaN      NaN        NaN          NaN    0.0001        14.0  52.4290                   NaN
+29  Hypertension  LTL South Asian (Nakao 2026)                      IVW (MRE)   182  0.0036  0.0268  0.8923  0.4506   0.9316        NaN          NaN       NaN         NaN  54.4054                   NaN
+30  Hypertension  LTL South Asian (Nakao 2026)                       MR-Egger   182  0.0418  0.0914  0.6481     NaN      NaN    -0.0017       0.6629       NaN         NaN  54.4054                   NaN
+31  Hypertension  LTL South Asian (Nakao 2026)                Weighted median   182  0.0129  0.0421  0.7587     NaN      NaN        NaN          NaN       NaN         NaN  54.4054                   NaN
+32  Hypertension  LTL South Asian (Nakao 2026)                  Weighted mode   182  0.0450  0.0899  0.6167     NaN      NaN        NaN          NaN       NaN         NaN  54.4054                   NaN
+33  Hypertension  LTL South Asian (Nakao 2026)  MR-PRESSO (outlier-corrected)   182  0.0036  0.0268  0.8923     NaN      NaN        NaN          NaN    0.4520         0.0  54.4054                   NaN

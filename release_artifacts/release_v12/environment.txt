@@ -1,0 +1,22 @@
+# Environment of the v12 build, captured 2026-10-03T14:18:15Z
+Linux vm 6.18.44-fc-v64 x86_64
+Python 3.11.15
+numpy 2.4.4
+pandas 3.0.2
+scipy 1.17.1
+matplotlib 3.10.9
+docx 1.2.0
+openpyxl 3.1.5
+PIL 12.2.0
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+MendelianRandomization 0.10.0 
+MRPRESSO 1.0 
+coloc 6.0.3 
+susieR 0.12.35 
+mr.raps 0.4.3 
+nortest 1.0.4 
+rootSolve 1.8.2.4 
+R version 4.3.3 (2024-02-29)
+LibreOffice 24.2.7.2 420(Build:2)
+MVMR reference code: ref_MVMR/ from GitHub WSpiller/MVMR commit 8be0d94 (sourced)
+mr.raps: GitHub qingyuanzhao/mr.raps commit dd79b5b, installed with the rsnps import removed (plotting helper only); nortest and rootSolve from the GitHub CRAN mirrors (cran/nortest, cran/rootSolve)

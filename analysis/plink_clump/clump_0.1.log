@@ -1,0 +1,29 @@
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+Options in effect:
+  --bfile plink_clump/cand
+  --clump plink_clump/cand.assoc
+  --clump-kb 10000
+  --clump-p1 1
+  --clump-p2 1
+  --clump-r2 0.1
+  --out plink_clump/clump_0.1
+
+Hostname: vm
+Working directory: /home/claude/hTERT
+Start time: Tue Sep 29 21:42:45 2026
+
+Random number seed: 1790707365
+8032 MB RAM detected; reserving 4016 MB for main workspace.
+174 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to plink_clump/clump_0.1.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is in [0.9999995, 1).
+174 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 173 clumps formed from 174 top variants.
+Results written to plink_clump/clump_0.1.clumped .
+
+End time: Tue Sep 29 21:42:45 2026

@@ -1,0 +1,2 @@
+n_variants,min_eigenvalue,max_eigenvalue,condition_number,max_abs_offdiag_r,n_pairs_abs_r_ge_0_1,positive_definite
+173,0.34209806565423817,2.0720154369690746,6.056787935957757,0.16258521,45,True

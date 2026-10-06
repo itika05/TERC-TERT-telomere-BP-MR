@@ -1,0 +1,28 @@
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+Options in effect:
+  --double-id
+  --make-bed
+  --out plink_clump/ref_sbp
+  --vcf plink_clump/ref_sbp.vcf
+
+Hostname: vm
+Working directory: /home/claude/hTERT
+Start time: Wed Sep 30 00:07:26 2026
+
+Random number seed: 1790716046
+8032 MB RAM detected; reserving 4016 MB for main workspace.
+--vcf: plink_clump/ref_sbp-temporary.bed + plink_clump/ref_sbp-temporary.bim +
+plink_clump/ref_sbp-temporary.fam written.
+885 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to plink_clump/ref_sbp.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is in [0.9999995, 1).
+885 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to plink_clump/ref_sbp.bed + plink_clump/ref_sbp.bim +
+plink_clump/ref_sbp.fam ... done.
+
+End time: Wed Sep 30 00:07:26 2026

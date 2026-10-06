@@ -1,0 +1,1 @@
+MVMR GitHub WSpiller/MVMR commit 8be0d9447aa8ac0d6c74a611c8b4f50ea8f5f368 (2026-08-24); functions sourced unchanged except parallelly::availableCores(omit = 1) replaced by 1 (boot/parallelly not installable here; bootstrap CIs not used)

@@ -1,0 +1,2 @@
+"analysis","method","b","se","lo","hi","p","nsnp","direction","code","trait","source","family","Q","Q_p","I2","intercept","intercept_se","intercept_p","I2GX","global_p","n_outliers","distortion_p"
+"r2<0.001 (primary)","MR-PRESSO (outlier-corrected)",0.167975632357526,0.0225478503138393,0.123151989441488,0.212799275273565,6.76715618873068e-11,87,"forward","S_mvpEU","SBP","MVP European","primary",NA,NA,NA,NA,NA,NA,NA,0.000416666666666667,29,0.209166666666667

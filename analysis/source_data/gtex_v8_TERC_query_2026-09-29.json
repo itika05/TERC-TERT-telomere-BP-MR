@@ -1,0 +1,6 @@
+{"query_date": "2026-09-29", "api": "https://gtexportal.org/api/v2",
+ "gene_reference": {"endpoint": "reference/gene?geneId=TERC&gencodeVersion=v26&genomeBuild=GRCh38/hg38", "gencodeId": "ENSG00000270141.3", "geneType": "lincRNA", "chromosome": "chr3", "start": 169764520, "end": 169765060, "strand": "-"},
+ "singleTissueEqtl": {"endpoint": "association/singleTissueEqtl?gencodeId=ENSG00000270141.3&datasetId=gtex_v8", "records_returned": 0},
+ "medianGeneExpression_TPM": {"endpoint": "expression/medianGeneExpression?gencodeId=ENSG00000270141.3&datasetId=gtex_v8",
+   "Adrenal_Gland": 0, "Artery_Aorta": 0, "Artery_Coronary": 0, "Artery_Tibial": 0, "Heart_Atrial_Appendage": 0, "Heart_Left_Ventricle": 0, "Kidney_Cortex": 0, "Whole_Blood": 0},
+ "note": "The egene endpoint queried with gencodeId returned records not filtered to TERC and was not used."}

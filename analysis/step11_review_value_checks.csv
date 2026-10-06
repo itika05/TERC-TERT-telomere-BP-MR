@@ -1,0 +1,25 @@
+review_item,quantity,value,source
+Minor 3,rs2736100 MVP EU hypertension: P-derived SE / SE expected from window median and allele frequency,1.039,S77
+Minor 3,rs2736100: percentile of that ratio among TERT-window records (MAF >= 5%),67.3,S77
+Minor 3,rs2736100: SE range from rounding of printed beta and P,0.007077 to 0.007077,S77
+Minor 3,TERT-window hypertension records with ratio >= rs2736100 ratio,391,S77
+Minor 3,TERT-window hypertension records (MAF >= 5%),1193,S77
+Major 4,"SBP IVW (MRE, t): estimate (SE)",0.183020 (0.028387),S11
+Major 4,SBP MR-Egger (t): estimate (SE),0.252054 (0.051164),S11
+Major 4,SBP Weighted median: estimate (SE),0.252314 (0.024259),S11
+Major 4,SBP Weighted mode (MBE): estimate (SE),0.283353 (0.026239),S11
+Minor 1,published Codd instrument variants,130,S65
+Minor 1,identical to one of our instruments,30,S65
+Minor 1,within 500 kb of an instrument (includes the identical ones),100,S65
+Minor 1,within 500 kb but not identical,70,S65
+Minor 1,farther than 500 kb,30,S65
+Minor 2,S_mvpEU primary IVW k (value written in Figure 2c),116,S11; fig2_mr_v7.py
+Minor 2,D_mvpEU primary IVW k (value written in Figure 2c),116,S11; fig2_mr_v7.py
+Minor 2,H_mvpEU primary IVW k (value written in Figure 2c),116,S11; fig2_mr_v7.py
+Minor 8,"Hispanic rs10936599 SBP: beta, SE, P as reported","-0.0015, 0.0028, 0.01756",kp_snp_lookup_by_ancestry_checked.csv
+Minor 8,z from beta/SE vs z from P,-0.54 vs 2.37,same
+Minor 8,two-sided P implied by beta/SE,0.59,computed
+Minor 8,SE implied by beta and P vs reported SE (exclusion rule: implied < 0.5 x reported),0.00063 vs 0.0028 (ratio 0.23),step2_lookup.py
+Minor 11,MVP EU EssentialHYPERTENSION portal N (rs2736100 record),321474.88,kp_snp_lookup_by_dataset.csv
+Minor 11,"4/(1/cases + 1/controls) for dbGaP pha005550 Phe_401_1.EUR (320,429 cases, 107,275 controls)",321474.86,dbGaP pha005550 description
+Minor 11,MVP EU HYPERTENSION portal N used in this study (rs2736100 record),318397.62,kp_snp_lookup_by_dataset.csv

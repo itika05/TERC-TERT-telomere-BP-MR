@@ -1,0 +1,8 @@
+category,regex,used_for_exclusion,phenotype_codes_matched
+Adiposity,^(BMI|WEIGHT|WHR|WHRadjBMI|Obesity|WAIST|HIPC|HIPCadjBMI|BodyFat.*|Ap-LM|TB-LM|LiverFat)$,True,Ap-LM;BMI;HIPCadjBMI;LiverFat;Obesity;TB-LM;WEIGHT;WHR;WHRadjBMI
+Lipids,^(HDL|LDL|CHOL|TG|nonHDL|ApoA|ApoA1|ApoB|TGtoHDL|Hyperlipidemia|HyperChol|Hyperglyceridemia|Dyslipid.*|RemnantC|IDL.*|TGnonT2D)$,True,ApoA;ApoA1;ApoB;CHOL;Dyslipid;Dyslipid_add;Dyslipid_dom;Dyslipid_het;Dyslipid_rec;HDL;HyperChol;Hyperglyceridemia;Hyperlipidemia;IDLchol;IDLpart;LDL;RemnantC;TG;TGnonT2D;TGtoHDL;nonHDL
+Glycaemia / T2D,^(HBA1C|HBA1CadjBMI|T2D.*|BS|BSandFG|BSadjFastingTime|FG|FGadjBMI|PI|PIadjBMI|MetS|MetS_cont)$,True,BS;BSadjFastingTime;BSandFG;FG;FGadjBMI;HBA1C;HBA1CadjBMI;MetS;MetS_cont;PI;PIadjBMI;T2D;T2D_add;T2DadjBMI;T2DwNM;T2DwOM;T2DwRM
+Kidney function,^(eGFR.*|Creatinine|CystatinC|BUN|SerumUrea|CKD|AcuteRenalFail|CRF)$,True,AcuteRenalFail;BUN;CKD;CRF;Creatinine;CystatinC;SerumUrea;eGFRcrcys;eGFRcrea;eGFRcreaNoDiabetes;eGFRcys
+Leukocyte counts,^(WBC|LymphoCount|LymphoPerc|NeutCount|NeutroPerc|MonoCount|MonoPerc|EosinCount|EosinPerc|BasoCount|BasoPerc)$,True,BasoCount;BasoPerc;EosinCount;EosinPerc;LymphoCount;LymphoPerc;MonoCount;MonoPerc;NeutCount;NeutroPerc;WBC
+Clonal haematopoiesis / mCA,^(CHIP.*|mCAY|mCA.*)$,True,CHIP;CHIP_ASXL1;CHIP_DNMT3A;CHIP_TET2;CHIPwithoutmCA;mCAY
+Blood pressure (not excluded),^(SBP|DBP|PulsePress|MAP|HYPERTENSION|EssentialHYPERTENSION)$,False,DBP;EssentialHYPERTENSION;HYPERTENSION;PulsePress;SBP

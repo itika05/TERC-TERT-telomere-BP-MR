@@ -1,0 +1,14 @@
+item,value
+gencodeId,ENSG00000270141.3
+geneType,lincRNA
+singleTissueEqtl records returned,0
+median TPM Adrenal_Gland,0
+median TPM Artery_Aorta,0
+median TPM Artery_Coronary,0
+median TPM Artery_Tibial,0
+median TPM Heart_Atrial_Appendage,0
+median TPM Heart_Left_Ventricle,0
+median TPM Kidney_Cortex,0
+median TPM Whole_Blood,0
+query date,2026-09-29
+API,https://gtexportal.org/api/v2

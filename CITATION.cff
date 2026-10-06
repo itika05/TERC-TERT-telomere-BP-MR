@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this repository."
+title: "Genetically predicted telomere length and blood pressure: Mendelian randomization in the Million Veteran Program and colocalization at TERC — analysis code and data"
+version: "1.0.0"
+date-released: "2026-10-06"
+license: MIT
+authors:
+  - family-names: Ikram
+    given-names: Muhammad Faisal
+  - family-names: Jaleel
+    given-names: Anila
+  - family-names: Aziz
+    given-names: Umair
+  - family-names: Uppal
+    given-names: Sadaf Saleem
+  - family-names: Jaleel
+    given-names: Shahila
+  - family-names: Zia
+    given-names: Anam
+  - family-names: Farrukh
+    given-names: Sadia
+  - family-names: Baig
+    given-names: Saeeda
+  - family-names: Arora
+    given-names: Itika
+  - family-names: Yaqinuddin
+    given-names: Ahmed
+  - family-names: Ganguly
+    given-names: Paul
+  - family-names: Allsopp
+    given-names: Richard Charles

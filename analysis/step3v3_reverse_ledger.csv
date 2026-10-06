@@ -1,0 +1,4 @@
+exposure,candidates,usable,status: matched,status: absent from panel,pairs_within_10Mb,pairs_computed,pairs_unknown,pairs_r2_ge_0_001,selected
+SBP,888,885,885,3.0,4486,4463,23,2680,316
+DBP,704,699,699,5.0,2610,2588,22,1298,273
+Hypertension,463,463,463,,1210,1210,0,651,183

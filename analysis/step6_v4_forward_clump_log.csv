@@ -1,0 +1,73 @@
+varId,reason,by
+5:1286516:C:A,r2 = 0.5161 >= 0.001 with stronger instrument,5:1282319:C:A
+5:1294086:C:T,r2 = 0.0101 >= 0.001 with stronger instrument,5:1282319:C:A
+2:54475507:C:T,r2 = 0.0046 >= 0.001 with stronger instrument,2:54479005:C:T
+20:62316834:G:T,r2 = 0.0012 >= 0.001 with stronger instrument,20:62321128:G:A
+6:31794592:C:T,excluded: excluded: MHC (chr6:25-34 Mb),
+10:105710933:A:G,r2 = 0.0039 >= 0.001 with stronger instrument,10:105676465:C:A
+18:42161643:G:T,r2 = 0.0016 >= 0.001 with stronger instrument,18:51817587:T:A
+10:96114835:G:A,r2 = 0.0028 >= 0.001 with stronger instrument,10:105676465:C:A
+18:41995504:A:G,r2 = 0.0050 >= 0.001 with stronger instrument,18:51817587:T:A
+18:704826:G:A,r2 = 0.0109 >= 0.001 with stronger instrument,18:658423:A:G
+20:62324404:C:T,r2 = 0.0012 >= 0.001 with stronger instrument,20:62325833:C:A
+20:62194238:C:T,r2 = 0.0012 >= 0.001 with stronger instrument,20:62325833:C:A
+3:169614795:C:T,r2 = 0.0087 >= 0.001 with stronger instrument,3:169489946:A:G
+X:151835284:G:A,excluded: chrX (haploid males; not assessed),
+3:169553070:C:A,r2 = 0.0103 >= 0.001 with stronger instrument,3:169489946:A:G
+17:1782952:A:G,r2 = 0.0022 >= 0.001 with stronger instrument,17:8136816:A:G
+5:1431392:G:C,r2 = 0.0027 >= 0.001 with stronger instrument,5:1282319:C:A
+6:25874423:G:A,excluded: excluded: MHC (chr6:25-34 Mb),
+3:169453439:A:G,r2 = 0.0054 >= 0.001 with stronger instrument,3:169489946:A:G
+6:31138910:T:C,excluded: excluded: MHC (chr6:25-34 Mb),
+3:169389753:G:A,r2 = 0.0085 >= 0.001 with stronger instrument,3:169489946:A:G
+5:1215883:G:A,r2 = 0.0057 >= 0.001 with stronger instrument,5:1282319:C:A
+12:123895906:G:C,r2 = 0.0012 >= 0.001 with stronger instrument,12:120976371:T:C
+5:1289277:G:A,r2 = 0.0053 >= 0.001 with stronger instrument,5:1282319:C:A
+X:58470368:G:A,excluded: chrX (haploid males; not assessed),
+X:58447720:C:A,excluded: chrX (haploid males; not assessed),
+10:101368199:G:C,r2 = 0.0013 >= 0.001 with stronger instrument,10:101271789:A:C
+4:164081668:A:C,r2 = 0.0096 >= 0.001 with stronger instrument,4:164034530:A:T
+17:76166689:C:A,r2 = 0.0078 >= 0.001 with stronger instrument,17:76183233:C:T
+X:153937409:C:T,excluded: chrX (haploid males; not assessed),
+5:1354281:C:A,r2 = 0.0093 >= 0.001 with stronger instrument,5:1282319:C:A
+1:110865634:A:C,r2 = 0.0014 >= 0.001 with stronger instrument,1:114443899:G:A
+6:32800221:C:T,excluded: excluded: MHC (chr6:25-34 Mb),
+4:9946095:G:A,r2 = 0.0015 >= 0.001 with stronger instrument,4:2255063:A:G
+7:159048318:T:G,r2 = 0.0045 >= 0.001 with stronger instrument,7:159086389:A:G
+5:1376174:C:T,r2 = 0.0027 >= 0.001 with stronger instrument,5:1639658:A:G
+17:1786461:T:G,r2 = 0.0022 >= 0.001 with stronger instrument,17:7772242:G:A
+14:73372069:T:G,r2 = 0.0045 >= 0.001 with stronger instrument,14:73422259:C:G
+16:74671866:G:A,r2 = 0.0029 >= 0.001 with stronger instrument,16:74655652:C:T
+20:62125432:C:T,r2 = 0.0045 >= 0.001 with stronger instrument,20:62321128:G:A
+3:48357600:G:A,r2 = 0.0068 >= 0.001 with stronger instrument,3:49959148:A:G
+20:62269839:T:C,r2 = 0.0082 >= 0.001 with stronger instrument,20:62321128:G:A
+16:73071381:C:T,r2 = 0.0024 >= 0.001 with stronger instrument,16:74655652:C:T
+14:65049474:A:G,r2 = 0.0118 >= 0.001 with stronger instrument,14:65544367:C:A
+3:169923523:G:A,r2 = 0.0036 >= 0.001 with stronger instrument,3:169489946:A:G
+5:1219258:G:C,r2 = 0.0028 >= 0.001 with stronger instrument,5:1282319:C:A
+19:13220703:C:G,r2 = 0.0121 >= 0.001 with stronger instrument,19:22215441:A:G
+6:32655615:C:A,excluded: excluded: MHC (chr6:25-34 Mb),
+17:73993546:C:T,r2 = 0.0022 >= 0.001 with stronger instrument,17:76183233:C:T
+18:650816:G:A,r2 = 0.0079 >= 0.001 with stronger instrument,18:658423:A:G
+X:58314606:G:T,excluded: chrX (haploid males; not assessed),
+3:128334852:C:T,r2 = 0.0029 >= 0.001 with stronger instrument,3:128215821:G:A
+7:129663496:C:T,r2 = 0.0011 >= 0.001 with stronger instrument,7:128576086:T:C
+5:1270883:C:T,r2 = 0.0098 >= 0.001 with stronger instrument,5:1282319:C:A
+1:28768043:G:C,r2 = 0.0015 >= 0.001 with stronger instrument,1:20916238:G:A
+X:55138252:G:T,excluded: chrX (haploid males; not assessed),
+10:105989765:T:G,r2 = 0.0096 >= 0.001 with stronger instrument,10:105676465:C:A
+1:41239511:A:G,r2 = 0.0018 >= 0.001 with stronger instrument,1:40035928:G:T
+3:169950482:C:T,r2 = 0.0068 >= 0.001 with stronger instrument,3:169489946:A:G
+18:729871:C:T,r2 = 0.0019 >= 0.001 with stronger instrument,18:658423:A:G
+7:23493613:T:A,r2 = 0.0146 >= 0.001 with stronger instrument,7:23821866:C:T
+X:78595704:A:G,excluded: chrX (haploid males; not assessed),
+15:56521620:C:T,r2 = 0.0014 >= 0.001 with stronger instrument,15:65116390:C:A
+22:51072289:C:A,r2 = 0.0085 >= 0.001 with stronger instrument,22:50971266:T:C
+19:33751852:G:C,r2 = 0.0036 >= 0.001 with stronger instrument,19:33750118:C:T
+X:57297165:C:T,excluded: chrX (haploid males; not assessed),
+4:164044410:A:G,r2 = 0.0129 >= 0.001 with stronger instrument,4:164034530:A:T
+3:169529562:G:C,r2 = 0.0062 >= 0.001 with stronger instrument,3:169489946:A:G
+5:1268066:C:T,r2 = 0.0065 >= 0.001 with stronger instrument,5:1282319:C:A
+5:1203499:T:C,r2 = 0.0051 >= 0.001 with stronger instrument,5:1282319:C:A
+15:56030756:T:C,r2 = 0.0016 >= 0.001 with stronger instrument,15:50353277:T:G
+X:150739143:T:C,excluded: chrX (haploid males; not assessed),

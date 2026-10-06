@@ -1,0 +1,4 @@
+"analysis_key","egger_k_refit","egger_RSE","egger_b_refit","egger_lo_refit","egger_hi_refit"
+"forward | S_gh | r2<0.001 (primary) | MR-Egger (t) | Genes & Health",103,0.956177805359267,0.137091453668828,-0.0497176613642538,0.32390056870191
+"forward | S_bbj | r2<0.001 (primary) | MR-Egger (t) | Biobank Japan",85,0.997121792450358,0.179246108407565,0.105823192805083,0.252669024010046
+"reverse | DBP->L_nkSA | r2<0.001 (primary) | MR-Egger (t) | LTL South Asian (Nakao 2026)",219,0.996599707650179,0.042055720621686,-0.212517466437237,0.296628907680609

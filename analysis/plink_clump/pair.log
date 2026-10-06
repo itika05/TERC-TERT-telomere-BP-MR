@@ -1,0 +1,30 @@
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+Options in effect:
+  --bfile plink_clump/ref_hypertension
+  --extract plink_clump/pair.txt
+  --ld-window 99999
+  --ld-window-kb 20000
+  --ld-window-r2 0
+  --out plink_clump/pair
+  --r2 dprime
+
+Hostname: vm
+Working directory: /home/claude/hTERT
+Start time: Wed Sep 30 00:07:42 2026
+
+Random number seed: 1790716062
+8032 MB RAM detected; reserving 4016 MB for main workspace.
+463 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to plink_clump/pair.nosex .
+--extract: 2 variants remaining.
+Using up to 2 threads (change this with --threads).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is in [0.9999995, 1).
+2 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--r2 dprime... done.
+Results written to plink_clump/pair.ld .
+
+End time: Wed Sep 30 00:07:42 2026

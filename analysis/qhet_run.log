@@ -1,0 +1,111 @@
+   outcome rho exposure reference vectorised abs_diff
+1  S_mvpEU 0.0      LTL 0.1857607  0.1857607        0
+2  S_mvpEU 0.0      BMI 0.2341343  0.2341343        0
+3  S_mvpEU 0.0      LYM 0.0177405  0.0177405        0
+4  S_mvpEU 0.1      LTL 0.1863829  0.1863829        0
+5  S_mvpEU 0.1      BMI 0.2349794  0.2349794        0
+6  S_mvpEU 0.1      LYM 0.0182699  0.0182699        0
+7  S_mvpEU 0.2      LTL 0.1869756  0.1869756        0
+8  S_mvpEU 0.2      BMI 0.2358381  0.2358381        0
+9  S_mvpEU 0.2      LYM 0.0188591  0.0188591        0
+10 S_mvpEU 0.3      LTL 0.1875721  0.1875721        0
+11 S_mvpEU 0.3      BMI 0.2367043  0.2367043        0
+12 S_mvpEU 0.3      LYM 0.0193688  0.0193688        0
+13 D_mvpEU 0.0      LTL 0.1110309  0.1110309        0
+14 D_mvpEU 0.0      BMI 0.0394305  0.0394305        0
+15 D_mvpEU 0.0      LYM 0.0519082  0.0519082        0
+16 D_mvpEU 0.1      LTL 0.1112716  0.1112716        0
+17 D_mvpEU 0.1      BMI 0.0402758  0.0402758        0
+18 D_mvpEU 0.1      LYM 0.0521618  0.0521618        0
+19 D_mvpEU 0.2      LTL 0.1114925  0.1114925        0
+20 D_mvpEU 0.2      BMI 0.0410737  0.0410737        0
+21 D_mvpEU 0.2      LYM 0.0523751  0.0523751        0
+22 D_mvpEU 0.3      LTL 0.1117105  0.1117105        0
+23 D_mvpEU 0.3      BMI 0.0418519  0.0418519        0
+24 D_mvpEU 0.3      LYM 0.0526309  0.0526309        0
+25 H_mvpEU 0.0      LTL 0.1496018  0.1496018        0
+26 H_mvpEU 0.0      BMI 0.6772702  0.6772702        0
+27 H_mvpEU 0.0      LYM 0.0457209  0.0457209        0
+28 H_mvpEU 0.1      LTL 0.1515416  0.1515416        0
+29 H_mvpEU 0.1      BMI 0.6783105  0.6783105        0
+30 H_mvpEU 0.1      LYM 0.0469433  0.0469433        0
+31 H_mvpEU 0.2      LTL 0.1532958  0.1532958        0
+32 H_mvpEU 0.2      BMI 0.6792995  0.6792995        0
+33 H_mvpEU 0.2      LYM 0.0479752  0.0479752        0
+34 H_mvpEU 0.3      LTL 0.1550080  0.1550080        0
+35 H_mvpEU 0.3      BMI 0.6805635  0.6805635        0
+36 H_mvpEU 0.3      LYM 0.0490626  0.0490626        0
+   outcome rho exposure exposure_row qhet_estimate bootstrap_B boot_se
+4  D_mvpEU 0.0      LTL   Exposure 1       0.11103        1000 0.03064
+5  D_mvpEU 0.0      BMI   Exposure 2       0.03943        1000 0.05164
+6  D_mvpEU 0.0      LYM   Exposure 3       0.05191        1000 0.02078
+12 D_mvpEU 0.1      LTL   Exposure 1       0.11127          NA      NA
+18 D_mvpEU 0.1      BMI   Exposure 2       0.04028          NA      NA
+23 D_mvpEU 0.1      LYM   Exposure 3       0.05216          NA      NA
+24 D_mvpEU 0.2      LTL   Exposure 1       0.11149          NA      NA
+29 D_mvpEU 0.2      BMI   Exposure 2       0.04107          NA      NA
+22 D_mvpEU 0.2      LYM   Exposure 3       0.05238          NA      NA
+27 D_mvpEU 0.3      LTL   Exposure 1       0.11171          NA      NA
+28 D_mvpEU 0.3      BMI   Exposure 2       0.04185          NA      NA
+32 D_mvpEU 0.3      LYM   Exposure 3       0.05263          NA      NA
+7  H_mvpEU 0.0      LTL   Exposure 1       0.14960        1000 0.04860
+8  H_mvpEU 0.0      BMI   Exposure 2       0.67727        1000 0.08148
+9  H_mvpEU 0.0      LYM   Exposure 3       0.04572        1000 0.03776
+11 H_mvpEU 0.1      LTL   Exposure 1       0.15154          NA      NA
+25 H_mvpEU 0.1      BMI   Exposure 2       0.67831          NA      NA
+30 H_mvpEU 0.1      LYM   Exposure 3       0.04694          NA      NA
+31 H_mvpEU 0.2      LTL   Exposure 1       0.15330          NA      NA
+35 H_mvpEU 0.2      BMI   Exposure 2       0.67930          NA      NA
+26 H_mvpEU 0.2      LYM   Exposure 3       0.04798          NA      NA
+33 H_mvpEU 0.3      LTL   Exposure 1       0.15501          NA      NA
+34 H_mvpEU 0.3      BMI   Exposure 2       0.68056          NA      NA
+36 H_mvpEU 0.3      LYM   Exposure 3       0.04906          NA      NA
+1  S_mvpEU 0.0      LTL   Exposure 1       0.18576        1000 0.03635
+2  S_mvpEU 0.0      BMI   Exposure 2       0.23413        1000 0.03456
+3  S_mvpEU 0.0      LYM   Exposure 3       0.01774        1000 0.01965
+13 S_mvpEU 0.1      LTL   Exposure 1       0.18638          NA      NA
+10 S_mvpEU 0.1      BMI   Exposure 2       0.23498          NA      NA
+15 S_mvpEU 0.1      LYM   Exposure 3       0.01827          NA      NA
+16 S_mvpEU 0.2      LTL   Exposure 1       0.18698          NA      NA
+17 S_mvpEU 0.2      BMI   Exposure 2       0.23584          NA      NA
+14 S_mvpEU 0.2      LYM   Exposure 3       0.01886          NA      NA
+19 S_mvpEU 0.3      LTL   Exposure 1       0.18757          NA      NA
+20 S_mvpEU 0.3      BMI   Exposure 2       0.23670          NA      NA
+21 S_mvpEU 0.3      LYM   Exposure 3       0.01937          NA      NA
+      pct_lo  pct_hi
+4   0.049589 0.17383
+5  -0.048190 0.14892
+6   0.008954 0.09249
+12        NA      NA
+18        NA      NA
+23        NA      NA
+24        NA      NA
+29        NA      NA
+22        NA      NA
+27        NA      NA
+28        NA      NA
+32        NA      NA
+7   0.052238 0.24115
+8   0.526806 0.83720
+9  -0.026414 0.12165
+11        NA      NA
+25        NA      NA
+30        NA      NA
+31        NA      NA
+35        NA      NA
+26        NA      NA
+33        NA      NA
+34        NA      NA
+36        NA      NA
+1   0.104961 0.24655
+2   0.157608 0.29318
+3  -0.018974 0.05652
+13        NA      NA
+10        NA      NA
+15        NA      NA
+16        NA      NA
+17        NA      NA
+14        NA      NA
+19        NA      NA
+20        NA      NA
+21        NA      NA

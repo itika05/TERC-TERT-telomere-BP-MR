@@ -1,0 +1,912 @@
+{
+"E001": {
+"pri": "P0",
+"page": "p. 1",
+"lines": "L0004–L0004",
+"para": "P002",
+"current": "in samples without UK Biobank"
+},
+"E002": {
+"pri": "P0",
+"page": "p. 1",
+"lines": "L0006–L0006",
+"para": "P004",
+"current": "Authors: [TO COMPLETE]"
+},
+"E003": {
+"pri": "P0",
+"page": "p. 1",
+"lines": "L0010–L0010",
+"para": "P007",
+"current": "Supplementary Tables S1–S30"
+},
+"E004": {
+"pri": "P1",
+"page": "p. 2",
+"lines": "L0014–L0015",
+"para": "P010",
+"current": "We tested this relationship in outcome data without overlap with the exposure genome-wide association study (GWAS)."
+},
+"E005": {
+"pri": "P1",
+"page": "p. 2",
+"lines": "L0018–L0020",
+"para": "P011",
+"current": "with a phenome screen, multivariable MR adjusting for body mass index and lymphocyte count, replication in FinnGen, and colocalization at TERC and TERT."
+},
+"E006": {
+"pri": "P0",
+"page": "p. 2",
+"lines": "L0021–L0022",
+"para": "P012",
+"current": "about 2.3 to 2.7 mmHg"
+},
+"E007": {
+"pri": "P0",
+"page": "p. 2",
+"lines": "L0022–L0023",
+"para": "P012",
+"current": "and with hypertension (OR 1.15; 95% CI 1.03 to 1.28; P = 0.010), which was replicated in FinnGen (OR 1.15; P = 0.002)."
+},
+"E008": {
+"pri": "P1",
+"page": "p. 2",
+"lines": "L0025–L0025",
+"para": "P012",
+"current": "confounder screening"
+},
+"E009": {
+"pri": "P0",
+"page": "p. 2",
+"lines": "L0025–L0025",
+"para": "P012",
+"current": "Reverse MR showed no effect of BP on LTL"
+},
+"E010": {
+"pri": "P0",
+"page": "p. 2",
+"lines": "L0026–L0026",
+"para": "P012",
+"current": "At TERC, LTL shared a signal with SBP"
+},
+"E011": {
+"pri": "P1",
+"page": "p. 2",
+"lines": "L0029–L0029",
+"para": "P013",
+"current": "most consistently for continuous BP"
+},
+"E012": {
+"pri": "P2",
+"page": "p. 2",
+"lines": "L0033–L0033",
+"para": "P016",
+"current": "Hypertension is the leading modifiable risk factor for cardiovascular disease worldwide [1]."
+},
+"E013": {
+"pri": "P1",
+"page": "p. 2",
+"lines": "L0033–L0035",
+"para": "P016",
+"current": "Shorter leukocyte telomere length (LTL) has been proposed as a marker of vascular aging since the telomere hypothesis of essential hypertension [2]"
+},
+"E014": {
+"pri": "P1",
+"page": "p. 2",
+"lines": "L0035–L0036",
+"para": "P016",
+"current": "and observational studies report shorter LTL in people with hypertension [3–5] and links with the renin-angiotensin-aldosterone system [6]."
+},
+"E015": {
+"pri": "P2",
+"page": "p. 2",
+"lines": "L0036–L0037",
+"para": "P016",
+"current": "Newborn telomere length has been associated with childhood blood pressure [7]."
+},
+"E016": {
+"pri": "P1",
+"page": "p. 2",
+"lines": "L0038–L0038",
+"para": "P017",
+"current": "Genetic studies point the other way."
+},
+"E017": {
+"pri": "P1",
+"page": "p. 2",
+"lines": "L0038–L0039",
+"para": "P017",
+"current": "In the UK Biobank LTL GWAS, genetically longer LTL was associated with higher blood pressure [8]"
+},
+"E018": {
+"pri": "P1",
+"page": "p. 2",
+"lines": "L0039–L0041",
+"para": "P017",
+"current": "a systematic review of MR studies graded the association between longer LTL and hypertension as robust [9]; other MR studies have reached varying conclusions [10,11]."
+},
+"E019": {
+"pri": "P1",
+"page": "p. 2",
+"lines": "L0041–L0042",
+"para": "P017",
+"current": "Because the exposure GWAS and many blood pressure GWAS share UK Biobank participants"
+},
+"E020": {
+"pri": "P1",
+"page": "p. 2",
+"lines": "L0043–L0044",
+"para": "P017",
+"current": "whether it survives adjustment for traits that could carry pleiotropy, notably adiposity and leukocyte counts"
+},
+"E021": {
+"pri": "P1",
+"page": "p. 2",
+"lines": "L0044–L0045",
+"para": "P017",
+"current": "and which loci drive it."
+},
+"E022": {
+"pri": "P1",
+"page": "p. 2",
+"lines": "L0045–L0046",
+"para": "P017",
+"current": "Genetically longer LTL also increases the risk of clonal hematopoiesis of indeterminate potential [12]"
+},
+"E023": {
+"pri": "P1",
+"page": "p. 3",
+"lines": "L0048–L0049",
+"para": "P018",
+"current": "The TERC (3q26.2) and TERT (5p15.33) loci encode the RNA template and catalytic subunit of telomerase."
+},
+"E024": {
+"pri": "P2",
+"page": "p. 3",
+"lines": "L0049–L0050",
+"para": "P018",
+"current": "rs10936599 near TERC was among the first replicated LTL variants [14], and rs2736100 in TERT is pleiotropic [15]."
+},
+"E025": {
+"pri": "P1",
+"page": "p. 3",
+"lines": "L0050–L0052",
+"para": "P018",
+"current": "Telomerase deficiency raises blood pressure in mice [16], telomerase contributes to flow-mediated dilation in human microvessels [17], and Tert deletion impairs circadian blood pressure regulation in spontaneously hypertensive rats [18]."
+},
+"E026": {
+"pri": "P1",
+"page": "p. 3",
+"lines": "L0053–L0055",
+"para": "P019",
+"current": "We therefore tested, as the primary question, whether genetically predicted LTL is associated with systolic and diastolic blood pressure and hypertension in European-ancestry Million Veteran Program participants, whose data exclude UK Biobank, and whether these traits predict LTL."
+},
+"E027": {
+"pri": "P1",
+"page": "p. 3",
+"lines": "L0055–L0058",
+"para": "P019",
+"current": "Secondary questions were replication in FinnGen and other ancestries, robustness to pleiotropy through a phenome screen and multivariable MR, and whether the TERC and TERT loci share causal variants with blood pressure."
+},
+"E028": {
+"pri": "P1",
+"page": "p. 3",
+"lines": "L0060–L0060",
+"para": "P021",
+"current": "Reporting follows STROBE-MR [19]"
+},
+"E029": {
+"pri": "P0",
+"page": "p. 3",
+"lines": "L0065–L0066",
+"para": "P023",
+"current": "All other analyses are secondary, reported without multiplicity correction, and not interpreted as confirmatory."
+},
+"E030": {
+"pri": "P0",
+"page": "p. 3",
+"lines": "L0069–L0070",
+"para": "P025",
+"current": "Outcome data came from the Common Metabolic Diseases Knowledge Portal [21,22]"
+},
+"E031": {
+"pri": "P1",
+"page": "p. 3",
+"lines": "L0073–L0074",
+"para": "P025",
+"current": "Hypertension in FinnGen was taken from the public data freeze 12 (endpoint I9_HYPTENS; 154,630 cases and 345,634 controls)"
+},
+"E032": {
+"pri": "P1",
+"page": "p. 3",
+"lines": "L0076–L0077",
+"para": "P026",
+"current": "MVP quantitative traits were rank-based inverse-normal transformed and adjusted for age, sex and principal components [23]"
+},
+"E033": {
+"pri": "P0",
+"page": "p. 3",
+"lines": "L0077–L0078",
+"para": "P026",
+"current": "the source publication does not describe an adjustment for antihypertensive treatment."
+},
+"E034": {
+"pri": "P0",
+"page": "p. 3",
+"lines": "L0080–L0081",
+"para": "P026",
+"current": "so all BP datasets used here are on a standardized scale and are comparable."
+},
+"E035": {
+"pri": "P0",
+"page": "p. 3",
+"lines": "L0081–L0082",
+"para": "P026",
+"current": "MVP effects of shared lead variants were regressed on the mmHg-scale effects of two European BP GWAS [28,29]"
+},
+"E036": {
+"pri": "P0",
+"page": "p. 4",
+"lines": "L0084–L0085",
+"para": "P027",
+"current": "SE = |β|/z(P)"
+},
+"E037": {
+"pri": "P0",
+"page": "p. 4",
+"lines": "L0085–L0086",
+"para": "P027",
+"current": "where P was at the numerical floor or equal to 1, SE was computed from N and allele frequency."
+},
+"E038": {
+"pri": "P1",
+"page": "p. 4",
+"lines": "L0086–L0086",
+"para": "P027",
+"current": "Knowledge Portal LTL estimates were identical to the source data"
+},
+"E039": {
+"pri": "P0",
+"page": "p. 4",
+"lines": "L0088–L0089",
+"para": "P027",
+"current": "FinnGen (GRCh38) was joined by rsID and alleles."
+},
+"E040": {
+"pri": "P1",
+"page": "p. 4",
+"lines": "L0091–L0092",
+"para": "P029",
+"current": "Of 451 European LTL lead variants in the Knowledge Portal, 248 reached P < 5 × 10-8 in Codd et al., and 188 had an rsID and minor allele frequency >= 1%."
+},
+"E041": {
+"pri": "P0",
+"page": "p. 4",
+"lines": "L0095–L0095",
+"para": "P029",
+"current": "Clumping followed the PLINK procedure [31]"
+},
+"E042": {
+"pri": "P1",
+"page": "p. 4",
+"lines": "L0097–L0098",
+"para": "P029",
+"current": "Reverse instruments were MVP European variants for SBP, DBP or hypertension"
+},
+"E043": {
+"pri": "P1",
+"page": "p. 4",
+"lines": "L0099–L0100",
+"para": "P029",
+"current": "the LD-pruned MR instrument published by Codd et al. (their Supplementary Table 1)"
+},
+"E044": {
+"pri": "P1",
+"page": "p. 4",
+"lines": "L0103–L0103",
+"para": "P031",
+"current": "IVW with multiplicative random effects and t(k-1) inference; MR-Egger with t(k-2)"
+},
+"E045": {
+"pri": "P0",
+"page": "p. 4",
+"lines": "L0104–L0105",
+"para": "P031",
+"current": "MR-PRESSO (2,400 simulations, so the smallest attainable global P is 1/2,400 = 4.2 × 10-4)"
+},
+"E047": {
+"pri": "P1",
+"page": "p. 4",
+"lines": "L0106–L0106",
+"para": "P031",
+"current": "Sensitivity analyses were Steiger filtering [39]"
+},
+"E048": {
+"pri": "P1",
+"page": "p. 4",
+"lines": "L0107–L0108",
+"para": "P031",
+"current": "a covariance-aware analysis of instruments clumped at r2 < 0.1 using generalized least squares [40]"
+},
+"E049": {
+"pri": "P1",
+"page": "p. 4",
+"lines": "L0109–L0110",
+"para": "P031",
+"current": "the minimum effect detectable with 80% power was computed at α = 0.05 and α = 0.05/6."
+},
+"E050": {
+"pri": "P1",
+"page": "p. 4",
+"lines": "L0115–L0115",
+"para": "P033",
+"current": "Each instrument was looked up across all Knowledge Portal datasets"
+},
+"E051": {
+"pri": "P1",
+"page": "p. 4",
+"lines": "L0117–L0118",
+"para": "P033",
+"current": "MR was repeated after excluding instruments associated with any category other than blood pressure."
+},
+"E052": {
+"pri": "P0",
+"page": "p. 4",
+"lines": "L0119–L0120",
+"para": "P033",
+"current": "body mass index (GIANT and UK Biobank [42])"
+},
+"E053": {
+"pri": "P0",
+"page": "p. 4",
+"lines": "L0119–L0119",
+"para": "P033",
+"current": "Multivariable MR [41] estimated the effect of LTL adjusted for body mass index"
+},
+"E054": {
+"pri": "P1",
+"page": "p. 4",
+"lines": "L0121–L0121",
+"para": "P033",
+"current": "the 300 strongest distance-pruned European lead variants for each other exposure"
+},
+"E055": {
+"pri": "P1",
+"page": "pp. 4–5",
+"lines": "L0123–L0125",
+"para": "P033",
+"current": "Sex-stratified MR was not possible because sex-stratified BP summary statistics that exclude UK Biobank are not publicly available for these cohorts."
+},
+"E056": {
+"pri": "P0",
+"page": "p. 5",
+"lines": "L0128–L0128",
+"para": "P035",
+"current": "all from single cohorts without UK Biobank."
+},
+"E057": {
+"pri": "P1",
+"page": "p. 5",
+"lines": "L0129–L0130",
+"para": "P035",
+"current": "Windows of ±50, ±100 and ±250 kb were centered on the variant with the largest LTL |z|"
+},
+"E058": {
+"pri": "P1",
+"page": "p. 5",
+"lines": "L0130–L0131",
+"para": "P035",
+"current": "coloc.abf (coloc 6.0.3) [45,46] used p1 = p2 = 10-4 and p12 from 10-6 to 5 × 10-5."
+},
+"E059": {
+"pri": "P0",
+"page": "p. 5",
+"lines": "L0131–L0132",
+"para": "P035",
+"current": "SuSiE [47,48] (susieR 0.12.35; L = 10) used signed 1000 Genomes European LD"
+},
+"E060": {
+"pri": "P1",
+"page": "p. 5",
+"lines": "L0134–L0135",
+"para": "P035",
+"current": "GTEx v8 cis-eQTLs [50] are reported as annotations of index variants."
+},
+"E061": {
+"pri": "P0",
+"page": "p. 5",
+"lines": "L0139–L0139",
+"para": "P037",
+"current": "Cross-ancestry DerSimonian-Laird pooling [51] is a secondary summary."
+},
+"E062": {
+"pri": "P0",
+"page": "p. 5",
+"lines": "L0141–L0141",
+"para": "P039",
+"current": "All numbers in the text, tables and figures are read programmatically from the result files."
+},
+"E063": {
+"pri": "P0",
+"page": "p. 5",
+"lines": "L0142–L0143",
+"para": "P039",
+"current": "are provided with the Supplementary Information"
+},
+"E064": {
+"pri": "P0",
+"page": "p. 5",
+"lines": "L0147–L0147",
+"para": "P042",
+"current": "Among 304 computable pairs of candidate instruments within 10 Mb"
+},
+"E065": {
+"pri": "P1",
+"page": "p. 5",
+"lines": "L0148–L0148",
+"para": "P042",
+"current": "median F statistic 68, minimum 30"
+},
+"E066": {
+"pri": "P0",
+"page": "p. 5",
+"lines": "L0153–L0154",
+"para": "P044",
+"current": "On the mmHg scale this corresponds to about 2.3 to 2.7 mmHg SBP and 0.6 to 0.8 mmHg DBP per SD longer LTL"
+},
+"E067": {
+"pri": "P1",
+"page": "p. 5",
+"lines": "L0155–L0156",
+"para": "P044",
+"current": "which is nominally significant but above the Bonferroni threshold."
+},
+"E068": {
+"pri": "P1",
+"page": "p. 5",
+"lines": "L0157–L0157",
+"para": "P044",
+"current": "52 of 116 instruments contributed more than expected to Cochran Q for SBP"
+},
+"E069": {
+"pri": "P1",
+"page": "p. 5",
+"lines": "L0158–L0158",
+"para": "P044",
+"current": "The MR-Egger intercept was close to zero for SBP (P = 0.11) and DBP (P = 0.26)"
+},
+"E070": {
+"pri": "P0",
+"page": "p. 6",
+"lines": "L0160–L0161",
+"para": "P044",
+"current": "MR-PRESSO removed 29, 24 and 13 outliers (global P < 4.2 × 10-4 for each)."
+},
+"E071": {
+"pri": "P1",
+"page": "p. 6",
+"lines": "L0161–L0162",
+"para": "P044",
+"current": "The very small P values of the median and mode estimators reflect their narrower standard errors under heterogeneity rather than stronger evidence"
+},
+"E072": {
+"pri": "P1",
+"page": "p. 6",
+"lines": "L0165–L0165",
+"para": "P046",
+"current": "Estimates were similar with the published Codd instrument"
+},
+"E073": {
+"pri": "P1",
+"page": "p. 6",
+"lines": "L0168–L0168",
+"para": "P046",
+"current": "Excluding the TERC and TERT regions attenuated SBP to 0.150"
+},
+"E074": {
+"pri": "P1",
+"page": "p. 6",
+"lines": "L0173–L0174",
+"para": "P047",
+"current": "In the 42 remaining instruments, the SBP association persisted"
+},
+"E075": {
+"pri": "P0",
+"page": "p. 6",
+"lines": "L0180–L0181",
+"para": "P048",
+"current": "similar to the univariable estimates on the same variants."
+},
+"E076": {
+"pri": "P1",
+"page": "p. 6",
+"lines": "L0183–L0183",
+"para": "P050",
+"current": "In FinnGen, genetically longer LTL was associated with hypertension"
+},
+"E077": {
+"pri": "P1",
+"page": "p. 6",
+"lines": "L0184–L0184",
+"para": "P050",
+"current": "SBP estimates were positive in Biobank Japan"
+},
+"E078": {
+"pri": "P1",
+"page": "p. 6",
+"lines": "L0187–L0188",
+"para": "P050",
+"current": "concordant in direction but imprecise"
+},
+"E079": {
+"pri": "P0",
+"page": "p. 6",
+"lines": "L0190–L0190",
+"para": "P052",
+"current": "Reverse MR did not show an effect of genetically higher SBP"
+},
+"E080": {
+"pri": "P1",
+"page": "p. 6",
+"lines": "L0192–L0193",
+"para": "P052",
+"current": "With 80% power the minimum detectable effects were 0.041, 0.031 and 0.020 SD LTL"
+},
+"E081": {
+"pri": "P1",
+"page": "pp. 6–7",
+"lines": "L0197–L0198",
+"para": "P054",
+"current": "as did LTL and MVP hypertension (PP4 0.77 to 0.99)"
+},
+"E082": {
+"pri": "P0",
+"page": "p. 7",
+"lines": "L0201–L0202",
+"para": "P054",
+"current": "within ±100 kb, FinnGen hypertension (0.95)."
+},
+"E083": {
+"pri": "P1",
+"page": "p. 7",
+"lines": "L0200–L0200",
+"para": "P054",
+"current": "SuSiE placed the main LTL credible set at rs2293607"
+},
+"E084": {
+"pri": "P0",
+"page": "p. 7",
+"lines": "L0203–L0204",
+"para": "P055",
+"current": "When SEs for floored variants were derived from P in the multi-cohort Knowledge Portal meta-analyses"
+},
+"E085": {
+"pri": "P0",
+"page": "p. 7",
+"lines": "L0210–L0210",
+"para": "P056",
+"current": "LTL gave 10 credible sets, so the TERT fine-mapping is less secure."
+},
+"E086": {
+"pri": "P1",
+"page": "p. 7",
+"lines": "L0208–L0209",
+"para": "P056",
+"current": "FinnGen hypertension shared the LTL signal"
+},
+"E087": {
+"pri": "P1",
+"page": "p. 7",
+"lines": "L0214–L0215",
+"para": "P057",
+"current": "TERC expression was not quantified in GTEx."
+},
+"E088": {
+"pri": "P1",
+"page": "p. 7",
+"lines": "L0215–L0215",
+"para": "P057",
+"current": "These are parallel associations of one allele and do not identify the effector gene."
+},
+"E089": {
+"pri": "P0",
+"page": "p. 7",
+"lines": "L0219–L0220",
+"para": "P059",
+"current": "The pooled estimate for rs10936599 and SBP depended on the SE source"
+},
+"E090": {
+"pri": "P1",
+"page": "p. 7",
+"lines": "L0221–L0222",
+"para": "P059",
+"current": "results for rs2736100 were stable (-0.0082 SD; P = 4.2 × 10-14)."
+},
+"E091": {
+"pri": "P0",
+"page": "p. 7",
+"lines": "L0226–L0226",
+"para": "P061",
+"current": "and with hypertension in MVP and FinnGen."
+},
+"E092": {
+"pri": "P1",
+"page": "p. 7",
+"lines": "L0227–L0228",
+"para": "P061",
+"current": "potential confounders"
+},
+"E093": {
+"pri": "P0",
+"page": "p. 7",
+"lines": "L0231–L0231",
+"para": "P061",
+"current": "Reverse MR did not show an effect of BP on LTL."
+},
+"E094": {
+"pri": "P1",
+"page": "p. 7",
+"lines": "L0233–L0234",
+"para": "P062",
+"current": "Our contribution is replication in outcome samples that exclude UK Biobank, exposure estimates from the source data, pleiotropy checks through a phenome screen and multivariable MR"
+},
+"E095": {
+"pri": "P0",
+"page": "p. 8",
+"lines": "L0237–L0238",
+"para": "P062",
+"current": "reverse causation therefore does not explain the observational finding of shorter LTL in hypertension"
+},
+"E096": {
+"pri": "P1",
+"page": "p. 8",
+"lines": "L0241–L0242",
+"para": "P063",
+"current": "greater replicative capacity of endothelial and smooth-muscle cells could favor proliferative remodeling"
+},
+"E097": {
+"pri": "P1",
+"page": "p. 8",
+"lines": "L0243–L0244",
+"para": "P063",
+"current": "The pleiotropy of TERT variants, which raise cancer risk while protecting against degenerative disease [15], illustrates the same trade-off."
+},
+"E098": {
+"pri": "P0",
+"page": "p. 8",
+"lines": "L0244–L0245",
+"para": "P063",
+"current": "Our multivariable estimates were not changed by adjustment for lymphocyte count"
+},
+"E099": {
+"pri": "P1",
+"page": "p. 8",
+"lines": "L0245–L0247",
+"para": "P063",
+"current": "clonal hematopoiesis could not be modeled directly because few genome-wide significant instruments are available"
+},
+"E100": {
+"pri": "P0",
+"page": "p. 8",
+"lines": "L0248–L0249",
+"para": "P064",
+"current": "and with hypertension in FinnGen within ±100 kb."
+},
+"E101": {
+"pri": "P1",
+"page": "p. 8",
+"lines": "L0251–L0251",
+"para": "P064",
+"current": "this illustrates how the choice of regional data can change locus-level conclusions."
+},
+"E102": {
+"pri": "P1",
+"page": "p. 8",
+"lines": "L0253–L0254",
+"para": "P064",
+"current": "TERT variants should not be used alone as telomere-length proxies."
+},
+"E103": {
+"pri": "P0",
+"page": "p. 8",
+"lines": "L0256–L0257",
+"para": "P065",
+"current": "MVP BP traits were inverse-normal transformed and not adjusted for antihypertensive treatment"
+},
+"E104": {
+"pri": "P1",
+"page": "p. 8",
+"lines": "L0260–L0261",
+"para": "P065",
+"current": "r2 near 0.001 is close to the sampling noise of the panel"
+},
+"E105": {
+"pri": "P1",
+"page": "p. 8",
+"lines": "L0263–L0264",
+"para": "P065",
+"current": "Phenome screening depends on which traits are available and cannot exclude pleiotropy through unmeasured pathways."
+},
+"E106": {
+"pri": "P0",
+"page": "p. 8",
+"lines": "L0266–L0267",
+"para": "P066",
+"current": "which argues against interpreting short LTL in hypertensive patients as a cause of their hypertension."
+},
+"E107": {
+"pri": "P0",
+"page": "p. 8",
+"lines": "L0273–L0273",
+"para": "P068",
+"current": "although effects smaller than about 0.05 SD could not be excluded."
+},
+"E108": {
+"pri": "P1",
+"page": "p. 8",
+"lines": "L0274–L0274",
+"para": "P068",
+"current": "TERC shares its LTL signal with SBP and hypertension in single-cohort data"
+},
+"E109": {
+"pri": "P1",
+"page": "p. 9",
+"lines": "L0275–L0276",
+"para": "P068",
+"current": "Confirmation with ancestry-matched LD and sex-stratified data is needed."
+},
+"E110": {
+"pri": "P0",
+"page": "p. 9",
+"lines": "L0279–L0279",
+"para": "P070",
+"current": "no individual-level data were accessed"
+},
+"E111": {
+"pri": "P0",
+"page": "p. 9",
+"lines": "L0280–L0280",
+"para": "P071",
+"current": "Funding: [TO COMPLETE]. Competing interests: [TO COMPLETE]."
+},
+"E112": {
+"pri": "P1",
+"page": "p. 9",
+"lines": "L0282–L0282",
+"para": "P072",
+"current": "all input data are public"
+},
+"E113": {
+"pri": "P0",
+"page": "p. 9",
+"lines": "L0288–L0289",
+"para": "P073",
+"current": "[TO COMPLETE: name of the analyst who reran run_all.sh in a clean environment"
+},
+"E114": {
+"pri": "P2",
+"page": "p. 10",
+"lines": "L0329–L0329",
+"para": "P092",
+"current": "Hypertension. 2026;83."
+},
+"E115": {
+"pri": "P2",
+"page": "p. 10",
+"lines": "L0331–L0331",
+"para": "P093",
+"current": "JAMA. 2021;326:1614."
+},
+"E116": {
+"pri": "P0",
+"page": "p. 13",
+"lines": "L0428–L0429",
+"para": "P130",
+"current": "No outcome dataset includes UK Biobank."
+},
+"E117": {
+"pri": "P1",
+"page": "p. 13",
+"lines": "L0405–L0405",
+"para": "P129",
+"current": "Table 1. Data sources"
+},
+"E118": {
+"pri": "P1",
+"page": "p. 13",
+"lines": "L0431–L0431",
+"para": "P132",
+"current": "Table 2. Mendelian randomization results for the primary outcomes"
+},
+"E119": {
+"pri": "P1",
+"page": "p. 14",
+"lines": "L0473–L0473",
+"para": "P133",
+"current": "smallest attainable P 4.2 × 10-4"
+},
+"E120": {
+"pri": "P1",
+"page": "p. 14",
+"lines": "L0475–L0475",
+"para": "P135",
+"current": "Table 3. Variant identities and parallel associations at TERC and TERT"
+},
+"E121": {
+"pri": "P0",
+"page": "p. 14",
+"lines": "L0514–L0514",
+"para": "P139",
+"current": "The last column is coloc.susie PP4"
+},
+"E122": {
+"pri": "P2",
+"page": "p. 15",
+"lines": "L0517–L0517",
+"para": "P143",
+"current": "Figure 1. Study design."
+},
+"E123": {
+"pri": "P1",
+"page": "p. 16",
+"lines": "L0520–L0520",
+"para": "P146",
+"current": "(a) Distance and LD"
+},
+"E124": {
+"pri": "P2",
+"page": "p. 16",
+"lines": "L0522–L0522",
+"para": "P146",
+"current": "(c) Estimates and 95% confidence intervals"
+},
+"E125": {
+"pri": "P1",
+"page": "p. 16",
+"lines": "L0523–L0524",
+"para": "P146",
+"current": "(d) Reverse MR estimates and 95% CIs against minimum detectable effects"
+},
+"E126": {
+"pri": "P2",
+"page": "p. 17",
+"lines": "L0527–L0527",
+"para": "P149",
+"current": "(c) coloc.abf posterior probabilities of a shared variant"
+},
+"E127": {
+"pri": "P1",
+"page": "p. 17",
+"lines": "L0528–L0528",
+"para": "P149",
+"current": "(e) Parallel associations of rs10936599-T; no pathway is implied."
+},
+"E128": {
+"pri": "P2",
+"page": "p. 18",
+"lines": "L0529–L0529",
+"para": "P152",
+"current": "(a) Associations of the LTL-shortening allele by ancestry"
+},
+"E129": {
+"pri": "P2",
+"page": "p. 18",
+"lines": "L0530–L0531",
+"para": "P152",
+"current": "(b) Allele effects on LTL and SBP against the genome-wide MR slope."
+},
+"E130": {
+"pri": "P2",
+"page": "p. 18",
+"lines": "L0531–L0531",
+"para": "P152",
+"current": "(c) Allele frequencies in 26 1000 Genomes populations grouped by super-population."
+},
+"E046": {
+"pri": "P1",
+"page": "p. 4",
+"lines": "L0105–L0105",
+"para": "P031",
+"current": "Heterogeneity was summarized with Cochran Q, I² and radial MR [38]."
+}
+}

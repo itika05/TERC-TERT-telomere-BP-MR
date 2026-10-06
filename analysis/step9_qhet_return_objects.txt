@@ -1,0 +1,12 @@
+outcome S_mvpEU rho 0.0: class data.frame; dim 3x1; rownames Exposure 1|Exposure 2|Exposure 3; colnames Effect Estimates; values 0.1857607449079|0.234134268211727|0.0177405134981866
+outcome S_mvpEU rho 0.1: class data.frame; dim 3x1; rownames Exposure 1|Exposure 2|Exposure 3; colnames Effect Estimates; values 0.186382881623772|0.234979439955026|0.0182698589914442
+outcome S_mvpEU rho 0.2: class data.frame; dim 3x1; rownames Exposure 1|Exposure 2|Exposure 3; colnames Effect Estimates; values 0.186975623789051|0.235838106755944|0.0188591048893135
+outcome S_mvpEU rho 0.3: class data.frame; dim 3x1; rownames Exposure 1|Exposure 2|Exposure 3; colnames Effect Estimates; values 0.187572133570441|0.236704274395806|0.0193688457298894
+outcome D_mvpEU rho 0.0: class data.frame; dim 3x1; rownames Exposure 1|Exposure 2|Exposure 3; colnames Effect Estimates; values 0.111030891512653|0.0394305287736698|0.0519081704050026
+outcome D_mvpEU rho 0.1: class data.frame; dim 3x1; rownames Exposure 1|Exposure 2|Exposure 3; colnames Effect Estimates; values 0.111271640193376|0.040275787049932|0.0521617628584473
+outcome D_mvpEU rho 0.2: class data.frame; dim 3x1; rownames Exposure 1|Exposure 2|Exposure 3; colnames Effect Estimates; values 0.111492504387193|0.0410737484682197|0.0523750854088243
+outcome D_mvpEU rho 0.3: class data.frame; dim 3x1; rownames Exposure 1|Exposure 2|Exposure 3; colnames Effect Estimates; values 0.111710470697251|0.0418519099812785|0.0526309344087455
+outcome H_mvpEU rho 0.0: class data.frame; dim 3x1; rownames Exposure 1|Exposure 2|Exposure 3; colnames Effect Estimates; values 0.149601832082687|0.677270212820792|0.0457209486752147
+outcome H_mvpEU rho 0.1: class data.frame; dim 3x1; rownames Exposure 1|Exposure 2|Exposure 3; colnames Effect Estimates; values 0.151541579981165|0.678310518300811|0.046943297627568
+outcome H_mvpEU rho 0.2: class data.frame; dim 3x1; rownames Exposure 1|Exposure 2|Exposure 3; colnames Effect Estimates; values 0.153295788395736|0.679299476635869|0.0479751973089277
+outcome H_mvpEU rho 0.3: class data.frame; dim 3x1; rownames Exposure 1|Exposure 2|Exposure 3; colnames Effect Estimates; values 0.155007991773789|0.680563512221936|0.049062585804023

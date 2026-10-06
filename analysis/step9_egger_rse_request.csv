@@ -1,0 +1,4 @@
+analysis_key
+forward | S_gh | r2<0.001 (primary) | MR-Egger (t) | Genes & Health
+forward | S_bbj | r2<0.001 (primary) | MR-Egger (t) | Biobank Japan
+reverse | DBP->L_nkSA | r2<0.001 (primary) | MR-Egger (t) | LTL South Asian (Nakao 2026)

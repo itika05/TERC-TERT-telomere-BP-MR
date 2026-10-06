@@ -1,0 +1,13 @@
+dataset,trait,ancestry,N,source,notes
+Codd2021 (figshare source),LTL,European (UK Biobank),"464,716",https://figshare.com/s/caa99dc0f76d62990195,"BOLT-LMM beta and SE; age, sex, array, 10 PCs"
+Verma2024_MVPTraits_EU,SBP; DBP; hypertension,European,"425,740; 425,743; 318,398","Knowledge Portal (dataset-level records: beta, P, N)",Quantitative traits rank-based inverse-normal transformed (Verma et al. 2024); hypertension from Phecodes
+FinnGen R12 I9_HYPTENS,Hypertension,Finnish,"154,630 cases; 345,634 controls",storage.googleapis.com/finngen-public-data-r12/summary_stats/release/finngen_R12_I9_HYPTENS.gz,GRCh38; matched to GRCh37 by rsID and alleles
+GWAS_FinnGen_eu (portal),Hypertension,Finnish,"52,313 (portal record)","Knowledge Portal (""FinnGen 2018 GWAS"")",Early release; superseded by R12 in this analysis
+Huang2021_Cardiometabolic_SA,SBP; DBP,British Pakistani/Bangladeshi (Genes & Health),"18,536 (portal record)",Knowledge Portal,"Publication analysed up to 22,490 participants across traits; trait-specific N from the portal record"
+GWAS_BBJ_ea,SBP; DBP,East Asian,"136,597; 136,615",Knowledge Portal,
+Verma2024_MVPTraits_AA / _HS,SBP; DBP; hypertension,African American; Hispanic,"52,787-119,332",Knowledge Portal,
+Nakao2026_LTL_SA,LTL,South Asian,"11,277",Knowledge Portal,reverse-MR secondary outcome
+GWAS_UKBiobankGIANT_eu,BMI,European,"694,649",Knowledge Portal,MVMR exposure (Pulit et al. 2019)
+Chen2020_BCX_eu,Lymphocyte count,European,"563,946",Knowledge Portal,MVMR exposure (Chen et al. 2020)
+1000 Genomes phase 3,phased genotypes,EUR (503),503,ftp.1000genomes.ebi.ac.uk release 20130502,LD for clumping and SuSiE
+Knowledge Portal European SBP/DBP/hypertension meta-analyses,SBP; DBP; hypertension,European,"up to 3,041,360 (SBP)",Knowledge Portal bottom-line,"Combine datasets including UK Biobank-based GWAS (e.g. Evangelou 2018, Surendran 2020, Keaton 2024, UK Biobank 409k); used only for the variant look-up and the comparison in Figure S2b"

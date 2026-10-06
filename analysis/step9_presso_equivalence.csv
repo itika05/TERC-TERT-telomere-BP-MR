@@ -1,0 +1,31 @@
+code,B,seed,check,status
+D_mvpEU,3000,20260930,observed RSS,PASS
+D_mvpEU,3000,20260930,per-variant squared residual (Dif2),PASS
+D_mvpEU,3000,20260930,simulated RSS (all B replicates),PASS
+D_mvpEU,3000,20260930,global exceedance count,PASS
+D_mvpEU,3000,20260930,"per-variant outlier P (Bonferroni, capped at 1)",PASS
+D_mvpEU,3000,20260930,outlier identities,PASS
+D_mvpEU,3000,20260930,corrected estimate,PASS
+D_mvpEU,3000,20260930,corrected SE,PASS
+D_mvpEU,3000,20260930,corrected P,PASS
+D_mvpEU,3000,20260930,summary,"package outliers 23, python 23; global count pkg 0 py 0; b pkg 0.102588 py 0.102588; max rel diff simulated RSS 4.03e-14"
+H_mvpEU,3000,20260930,observed RSS,PASS
+H_mvpEU,3000,20260930,per-variant squared residual (Dif2),PASS
+H_mvpEU,3000,20260930,simulated RSS (all B replicates),PASS
+H_mvpEU,3000,20260930,global exceedance count,PASS
+H_mvpEU,3000,20260930,"per-variant outlier P (Bonferroni, capped at 1)",PASS
+H_mvpEU,3000,20260930,outlier identities,PASS
+H_mvpEU,3000,20260930,corrected estimate,PASS
+H_mvpEU,3000,20260930,corrected SE,PASS
+H_mvpEU,3000,20260930,corrected P,PASS
+H_mvpEU,3000,20260930,summary,"package outliers 13, python 13; global count pkg 0 py 0; b pkg 0.141028 py 0.141028; max rel diff simulated RSS 1.73e-14"
+S_mvpEU,3000,20260930,observed RSS,PASS
+S_mvpEU,3000,20260930,per-variant squared residual (Dif2),PASS
+S_mvpEU,3000,20260930,simulated RSS (all B replicates),PASS
+S_mvpEU,3000,20260930,global exceedance count,PASS
+S_mvpEU,3000,20260930,"per-variant outlier P (Bonferroni, capped at 1)",PASS
+S_mvpEU,3000,20260930,outlier identities,PASS
+S_mvpEU,3000,20260930,corrected estimate,PASS
+S_mvpEU,3000,20260930,corrected SE,PASS
+S_mvpEU,3000,20260930,corrected P,PASS
+S_mvpEU,3000,20260930,summary,"package outliers 26, python 26; global count pkg 0 py 0; b pkg 0.172901 py 0.172901; max rel diff simulated RSS 3.88e-14"

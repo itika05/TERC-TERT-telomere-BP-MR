@@ -1,0 +1,2 @@
+retrieval_date,endpoint,instruments_queried,instruments_with_any_record,records_stored,datasets,phenotypes,records_P_lt_5e8_nonLTL,note
+2026-09-29,bioindex variant-dataset-associations (one query per instrument varId),116,116,5144,310,319,3800,"At retrieval, every returned record was filtered and stored if P < 5e-8 (any dataset) or if it belonged to the BMI, lymphocyte, WBC or outcome datasets; the screen therefore uses stored P < 5e-8 records. Absence of a record is not evidence of no association."

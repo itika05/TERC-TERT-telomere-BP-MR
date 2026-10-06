@@ -1,0 +1,4 @@
+direction,varId,rsid,panel_records_at_position,position_only_record,allele_aware_record,position_only_record_correct,plink_kept_v6,plink_kept_current,in_current_plink_mr_fit
+SBP,10:25046556:A:T,rs4129338,A>AT; A>T,A>T,A>T,True,False,False,False
+SBP,7:101525302:T:A,rs113695388,T>A; TA>T,TA>T,T>A,False,True,False,False
+DBP,2:242671952:C:A,rs147632758,C>A; C>T,C>T,C>A,False,True,False,False

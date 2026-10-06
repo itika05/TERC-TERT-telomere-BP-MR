@@ -1,0 +1,5 @@
+direction,candidates,custom_kept,plink_kept,shared,custom_only,plink_only,jaccard
+forward,174,116,109,100,16,9,0.8
+SBP,885,316,280,225,91,55,0.6064690026954178
+DBP,699,273,242,208,65,34,0.6775244299674267
+Hypertension,463,183,174,151,32,23,0.7330097087378641
