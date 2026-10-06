@@ -13,7 +13,8 @@ Analysis code, derived summary-level data and result tables for the manuscript o
 | `figures/` | Main Figures 1–4 as submitted |
 | `supplemental_tables/` | Supplemental Tables S6–S88 workbook (with companion sheets for Tables S1 and S3) |
 | `environment.txt` | Software versions of the analysis release |
-| `release_manifest.csv`, `expected_checksums_v15.txt`, `build_checks.csv` | SHA-256 manifest of inputs, scripts and results, expected result checksums and the automated release checks (release ID v15-dddb0ef8a7b4) |
+| `release_manifest.csv`, `expected_checksums_v15.txt`, `build_checks.csv` | SHA-256 manifest of inputs, scripts and results, expected result checksums and the automated checks of the analysis build (build dddb0ef8a7b4; Supplemental Table S73, first block) |
+| `submission_checks/` | `final_package_checks.py`, which checks the submitted manuscript, supplement, STROBE-MR checklist, cover letter, figures and workbook, and its output (Supplemental Table S73, second block) |
 
 ## Requirements
 
