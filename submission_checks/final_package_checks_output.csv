@@ -1,7 +1,7 @@
 check,status,detail
 "Abstract <= 250 words (four headed sections, headings included)",PASS,250 words
 "Abstract has Background, Methods, Results and Conclusions sections",PASS,"Background, Methods, Results, Conclusions"
-Title-page word counts match the manuscript file (total excludes the nonstandard abbreviations list),PASS,"stated (6092, 2768, 250); computed total 6092, text 2768, abstract 250"
+Title-page word counts match the manuscript file (total excludes the nonstandard abbreviations list),PASS,"stated (6378, 3052, 250); computed total 6378, text 3052, abstract 250"
 Short title <= 50 characters including spaces,PASS,34 characters
 Reference list numbered 1..N without gaps,PASS,60 references
 Main-text references <= 50 (Circ Genom Precis Med limit); references 49-60 are cited in the Supplemental Material only,PASS,48 main-text references; 12 supplement-only
@@ -10,7 +10,7 @@ Main-text citations numbered in order of first appearance,PASS,48 distinct citat
 "Reference 18 is Nakao et al., Nat Genet 2026;58:831-840",PASS,"18.Nakao T, Koyama S, Truong B, Uddin MM, Misra A, Patel AP,"
 Display items <= 8 (tables + figures),PASS,"2 tables, 4 figures"
 "No version labels or version-history wording in manuscript, supplement, STROBE-MR or cover letter (GTEx v8, R package and GitHub release versions excepted)",PASS,none
-Every Supplemental Table S1-S88 is cited individually (ranges of 10 or more not counted),PASS,none missing
+Every Supplemental Table S1-S89 is cited individually (ranges of 10 or more not counted),PASS,none missing
 "Main text gives one MVP hypertension effective N (318,398) and does not cite the essential-hypertension record (pha005550)",PASS,
 Statements on MVP hypertension case and control counts match the dbGaP record (no statement that counts or case fraction are unavailable),PASS,
 STROBE-MR reference carries the full published title,PASS,
@@ -19,7 +19,7 @@ Data Availability gives the public GitHub repository and release,PASS,
 US spelling in manuscript and supplement text and tables (reference titles excepted),PASS,
 Manuscript has continuous line numbers and page-number fields in every section,PASS,1 sections
 PDF metadata: every PDF has a title and an author,PASS,7 PDFs
-"Manuscript PDF (Manuscript_TERC_TERT_BP.pdf, rendered from Manuscript_TERC_TERT_BP.docx) has no blank pages",PASS,32 pages
+"Manuscript PDF (Manuscript_TERC_TERT_BP.pdf, rendered from Manuscript_TERC_TERT_BP.docx) has no blank pages",PASS,33 pages
 "Figures embedded in the manuscript match the uploaded Figure1-4.pdf files (rendered, 600 px, grayscale)",PASS,"Figure 1: mean pixel difference 0.010, aspect difference 0.000; Figure 2: mean pixel difference 0.005, aspect difference 0.002; Figure 3: mean pixel difference 0.017, aspect difference 0.003; Figure 4: mean pixel difference 0.004, aspect difference 0.001"
 Main figures at 180 mm print width: no text below 6 pt (sub- and superscripts reported separately),PASS,"Figure 1: text min 6.06 pt, sub/superscripts min 4.24 pt (scale 0.977); Figure 2: text min 6.39 pt, sub/superscripts min 4.47 pt (scale 0.889); Figure 3: text min 6.20 pt, sub/superscripts min 4.34 pt (scale 1.000); Figure 4: text min 6.20 pt, sub/superscripts min 4.34 pt (scale 1.000)"
 "Upload set: exactly one file per item, no version labels or duplicate copies in file names",PASS,Cover_Letter_TERC_TERT_BP.pdf; Figures/Figure1.pdf; Figures/Figure2.pdf; Figures/Figure3.pdf; Figures/Figure4.pdf; Manuscript_TERC_TERT_BP.docx; STROBE-MR_Checklist_TERC_TERT_BP.pdf; Supplemental_Material_TERC_TERT_BP.pdf; Supplemental_Tables_TERC_TERT_BP.xlsx

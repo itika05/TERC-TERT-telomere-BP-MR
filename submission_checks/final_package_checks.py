@@ -133,8 +133,8 @@ for txt in (ms_text, sup_text):
             if int(b) - int(a) < 10:
                 cited.update(range(int(a), int(b) + 1))
         cited.update(int(x) for x in re.findall(r'S(\d+)', mm.group(1)))
-missing = sorted(set(range(1, 89)) - cited)
-add('Every Supplemental Table S1-S88 is cited individually (ranges of 10 or more not counted)', not missing, f'missing: {missing}' if missing else 'none missing')
+missing = sorted(set(range(1, 90)) - cited)
+add('Every Supplemental Table S1-S89 is cited individually (ranges of 10 or more not counted)', not missing, f'missing: {missing}' if missing else 'none missing')
 
 # 7 statements carried over from the analysis build, rechecked on the final text
 add('Main text gives one MVP hypertension effective N (318,398) and does not cite the essential-hypertension record (pha005550)',

@@ -1,0 +1,158 @@
+{
+ "rs10936599": {
+  "cases": {
+   "n": 45,
+   "genotypes": [
+    32,
+    7,
+    6
+   ],
+   "effect_allele": "T",
+   "freq": 0.211,
+   "het_obs": 0.156,
+   "het_exp": 0.333,
+   "hwe_p": 0.0012,
+   "vs_PJL_fisher_p": 0.306
+  },
+  "controls": {
+   "n": 10,
+   "genotypes": [
+    3,
+    5,
+    2
+   ],
+   "effect_allele": "T",
+   "freq": 0.45,
+   "het_obs": 0.5,
+   "het_exp": 0.495,
+   "hwe_p": 1.0,
+   "vs_PJL_fisher_p": 0.118
+  },
+  "all": {
+   "n": 55,
+   "genotypes": [
+    35,
+    12,
+    8
+   ],
+   "effect_allele": "T",
+   "freq": 0.255,
+   "het_obs": 0.218,
+   "het_exp": 0.38,
+   "hwe_p": 0.0026,
+   "vs_PJL_fisher_p": 0.788
+  },
+  "allelic_OR_effect_allele": [
+   0.33,
+   0.12,
+   0.9
+  ],
+  "allelic_fisher_p": 0.044,
+  "genotypic_freeman_halton_p": 0.021,
+  "trend_p": 0.063,
+  "firth_additive_OR": [
+   0.47,
+   0.2,
+   1.07,
+   0.073
+  ],
+  "reference_freq": {
+   "PJL": 0.271,
+   "SAS": 0.238,
+   "gnomAD_SAS": 0.269
+  },
+  "public": {
+   "LTL_EU": -0.1056,
+   "HTN_bottomline_logOR": -0.0211,
+   "HTN_bottomline_P": 7.3e-07,
+   "SBP_SA": [
+    0.0015,
+    0.89
+   ]
+  },
+  "control_counts": "reconstructed from reported allelic and dominant ORs",
+  "power_allelic_OR1.5_2_3": [
+   0.08325,
+   0.2245,
+   0.542
+  ]
+ },
+ "rs2736100": {
+  "cases": {
+   "n": 50,
+   "genotypes": [
+    18,
+    21,
+    11
+   ],
+   "effect_allele": "A",
+   "freq": 0.43,
+   "het_obs": 0.42,
+   "het_exp": 0.49,
+   "hwe_p": 0.3855,
+   "vs_PJL_fisher_p": 0.376
+  },
+  "controls": {
+   "n": 10,
+   "genotypes": [
+    5,
+    2,
+    3
+   ],
+   "effect_allele": "A",
+   "freq": 0.4,
+   "het_obs": 0.2,
+   "het_exp": 0.48,
+   "hwe_p": 0.0817,
+   "vs_PJL_fisher_p": 0.811
+  },
+  "all": {
+   "n": 60,
+   "genotypes": [
+    23,
+    23,
+    14
+   ],
+   "effect_allele": "A",
+   "freq": 0.425,
+   "het_obs": 0.383,
+   "het_exp": 0.489,
+   "hwe_p": 0.1128,
+   "vs_PJL_fisher_p": 0.342
+  },
+  "allelic_OR_effect_allele": [
+   1.13,
+   0.43,
+   3.01
+  ],
+  "allelic_fisher_p": 1.0,
+  "genotypic_freeman_halton_p": 0.458,
+  "trend_p": 0.822,
+  "firth_additive_OR": [
+   1.09,
+   0.47,
+   2.66,
+   0.851
+  ],
+  "reference_freq": {
+   "PJL": 0.37,
+   "SAS": 0.395,
+   "gnomAD_SAS": 0.411
+  },
+  "public": {
+   "LTL_EU": -0.0698,
+   "HTN_EU_logOR": -0.0023,
+   "HTN_EU_P": 0.42,
+   "SBP_SA": [
+    -0.0096,
+    0.33
+   ]
+  },
+  "control_counts": "reported",
+  "power_allelic_OR1.5_2_3": [
+   0.11225,
+   0.245,
+   0.5885
+  ]
+ }
+}
